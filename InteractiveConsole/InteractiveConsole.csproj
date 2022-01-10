@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>thammett</Authors>
+        <PackageVersion>1.0.0</PackageVersion>
+        <PackageId>thammett.InteractiveConsole</PackageId>
+        <PackageProjectUrl>https://github.com/thammet/interactive-console</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/thammet/interactive-console</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/thammet/interactive-console/blob/main/LICENSE</PackageLicenseUrl>
+    </PropertyGroup>
+
+</Project>
